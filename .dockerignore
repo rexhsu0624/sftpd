@@ -1,0 +1,4 @@
+.git
+build_sftp.sh
+start_sftpd.sh
+tests
